@@ -60,7 +60,7 @@ const Home: NextPage = () => {
               >
                 <Box>
                   <Text textAlign="center">
-                    Hello! I'm Chimezie Edeh, a software developer based in Nigeria. I have well versed experience in web development and dabbles into mobile application development with Flutter. I have worked many programming languages, but mostly work with JavaScript, Typescript, Dart, and Golang. I am open to lay my hands on many other languages depending on the project at hand. I also have experience working with some frameworks like NestJs, ExpressJs and Flutter.
+                    Hello! I'm Chimezie Edeh, a software developer based in Nigeria. I have well versed experience in web development and dabbles into mobile application development with Flutter. I have worked with many programming languages, but mostly work with JavaScript, Typescript, Dart, and Golang. I am open to lay my hands on many other languages depending on the project at hand. I also have experience working with some frameworks like NestJs, ExpressJs and Flutter.
                   </Text>
                 </Box>
               </Box>
